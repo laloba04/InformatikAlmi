@@ -3,7 +3,7 @@
 while true; do
     clear
     echo "================================================"
-    echo "================= Menú Diablos ================="
+    echo "================ InformatikAlmi ================"
     echo "================================================"
     echo "Seleccione una opción:"
     echo "1. Copia de seguridad" 
